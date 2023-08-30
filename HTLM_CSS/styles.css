@@ -1,3 +1,5 @@
-.header{
-    background-color: blue;
+.cabeçalho{
+    background-color: blueviolet;
+    color:rgb(255, 255, 255);
+    text-align: center;
 }
