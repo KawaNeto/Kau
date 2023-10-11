@@ -8,8 +8,10 @@
 }
 
 .logotipo{
-    width: 1000px;
-    margin: 120px;
+    width: 750px;
+    margin: 10px;
+    border-style: groove;
+    border-color: black;
 }
 
 .button{
@@ -21,8 +23,4 @@
 
 .botãozinho{
     background-color: rgb(2, 2, 34);
-}
-
-.rodapé{
-    background-color: darkblue;
 }
