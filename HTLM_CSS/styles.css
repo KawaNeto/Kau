@@ -3,21 +3,20 @@
     color:rgb(255, 255, 255);
     text-align: center;
     font: oblique;
-    text-size-adjust: right;
+    font-size: 25px;
+    padding-top: 15px;
 }
 
 .logotipo{
-    width: 5000px;
-    padding: 150px;
+    width: 1000px;
     margin: 120px;
 }
 
 .button{
-    width: 55px;
-    padding: 5px 5x;
+    width: 75px;
+    padding: 5px;
     cursor: pointer;
-    border-radius: 10px;
-    size-adjust: right;
+    border-radius: 100px;
 }
 
 .botãozinho{
